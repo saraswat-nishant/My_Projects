@@ -5,9 +5,9 @@ public class PrintNaturalNo {
         //a is first term
         int a = 1;
         // l is last term
-        int l = 11;
+        int l = 10;
         //n is no. of term
-        int n = 11;
+        int n = 10;
        float sum = n/2f*(a+l);
         System.out.println(sum);
 
